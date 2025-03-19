@@ -49,7 +49,5 @@ public class TestOllama {
                 logger.error("Failed to close client: {}", e.getMessage(), e);
             }
         }
-
-
     }
 }
